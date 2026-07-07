@@ -109,21 +109,19 @@ Three cognitive biases addressed:
 
 ## Visualizations / Visualizaciones
 
-![Demand Overview](bpif_p3_01_demand_overview.png)
+![Demand Overview](bpif_p3_01_demand_overview%20(1).png)
 
-![Weekly Pattern](bpif_p3_02_weekly_pattern.png)
+![Weekly Pattern](bpif_p3_02_weekly_pattern%20(1).png)
 
-![Seasonal Patterns](bpif_p3_03_seasonal_patterns.png)
+![Seasonal Patterns](bpif_p3_03_seasonal_patterns%20(1).png)
 
-![Zero Demand Analysis](bpif_p3_04_zero_demand.png)
+![Zero Demand Analysis](bpif_p3_04_zero_demand%20(1).png)
 
 ![Prophet Forecasts](bpif_p3_05_prophet_forecasts.png)
 
-![Stockout Risk Matrix](bpif_p3_06_stockout_risk.png)
+![Stockout Risk Matrix](bpif_p3_06_stockout_risk%20(1).png)
 
 ![Executive Dashboard](bpif_p3_07_executive_dashboard.png)
-
----
 
 ## What's next / Versión 2
 
