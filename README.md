@@ -6,7 +6,7 @@
 ![Prophet](https://img.shields.io/badge/Meta-Prophet-0467DF?style=flat)
 ![BPIF](https://img.shields.io/badge/Framework-BPIF-2ecc71?style=flat)
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](TU_LINK_COLAB_AQUI)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]([TU_LINK_COLAB_AQUI](https://colab.research.google.com/drive/1UfyHoQgWzlgCB33PqKxhvn63PoNyF7JZ?usp=sharing))
 
 ---
 
